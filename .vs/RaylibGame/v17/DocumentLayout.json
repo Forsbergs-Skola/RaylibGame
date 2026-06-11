@@ -42,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BulletPool.h",
-              "DocumentMoniker": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\BulletPool.h",
-              "RelativeDocumentMoniker": "BulletPool.h",
-              "ToolTip": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\BulletPool.h",
-              "RelativeToolTip": "BulletPool.h",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-15T17:26:03.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bullet.h",
-              "DocumentMoniker": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\Bullet.h",
-              "RelativeDocumentMoniker": "Bullet.h",
-              "ToolTip": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\Bullet.h",
-              "RelativeToolTip": "Bullet.h",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-15T17:23:38.974Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -85,6 +59,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletPool.h",
+              "DocumentMoniker": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\BulletPool.h",
+              "RelativeDocumentMoniker": "BulletPool.h",
+              "ToolTip": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\BulletPool.h",
+              "RelativeToolTip": "BulletPool.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T17:26:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\Bullet.h",
+              "RelativeDocumentMoniker": "Bullet.h",
+              "ToolTip": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\Bullet.h",
+              "RelativeToolTip": "Bullet.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T17:23:38.974Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\josep\\Favorites\\Forsberg\\RaylibGame\\Player.h",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Player.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAQwJEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-10T14:58:50.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T14:58:50.254Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Enemy.h",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-10T15:04:51.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T15:04:51.532Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Constants.h",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwD4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-10T14:59:08.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T14:59:08.331Z"
             },
             {
               "$type": "Document",
